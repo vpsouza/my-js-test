@@ -1,0 +1,30 @@
+{
+  "name": "my-js-test",
+  "version": "0.0.1",
+  "description": "teste",
+  "main": "web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+   "engines": {
+    "node": "0.10.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vpsouza/my-js-test.git"
+  },
+  "keywords": [
+    "example",
+    "heroku"
+  ],
+  "author": "Vinicius P. de Souza",
+  "license": "BSD-2-Clause MIT",
+  "bugs": {
+    "url": "https://github.com/vpsouza/my-js-test/issues"
+  },
+  "homepage": "https://github.com/vpsouza/my-js-test",
+  "dependencies": {
+    "logfmt": "~0.20.0",
+    "express": "~3.4.8"
+  }
+}
